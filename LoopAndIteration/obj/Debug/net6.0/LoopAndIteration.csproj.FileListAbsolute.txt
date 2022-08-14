@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\bin\Debug\net6.0\LoopAndIteration.exe
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\bin\Debug\net6.0\LoopAndIteration.deps.json
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\bin\Debug\net6.0\LoopAndIteration.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\bin\Debug\net6.0\LoopAndIteration.dll
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\bin\Debug\net6.0\LoopAndIteration.pdb
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.dll
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\refint\LoopAndIteration.dll
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.pdb
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\LoopAndIteration.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\LoopAndIteration\obj\Debug\net6.0\ref\LoopAndIteration.dll
