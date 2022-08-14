@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\bin\Debug\net6.0\IfElseConditionalOperator.exe
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\bin\Debug\net6.0\IfElseConditionalOperator.deps.json
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\bin\Debug\net6.0\IfElseConditionalOperator.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\bin\Debug\net6.0\IfElseConditionalOperator.dll
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\bin\Debug\net6.0\IfElseConditionalOperator.pdb
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.dll
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\refint\IfElseConditionalOperator.dll
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.pdb
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\IfElseConditionalOperator.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\IfElseConditionalOperator\obj\Debug\net6.0\ref\IfElseConditionalOperator.dll
