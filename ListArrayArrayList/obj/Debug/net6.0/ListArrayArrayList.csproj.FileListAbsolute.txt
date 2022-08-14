@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\bin\Debug\net6.0\ListArrayArrayList.exe
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\bin\Debug\net6.0\ListArrayArrayList.deps.json
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\bin\Debug\net6.0\ListArrayArrayList.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\bin\Debug\net6.0\ListArrayArrayList.dll
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\bin\Debug\net6.0\ListArrayArrayList.pdb
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.dll
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\refint\ListArrayArrayList.dll
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.pdb
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ListArrayArrayList.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\ListArrayArrayList\obj\Debug\net6.0\ref\ListArrayArrayList.dll
