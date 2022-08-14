@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\BasicConcepts\bin\Debug\net6.0\BasicConcepts.exe
+G:\C-Sharp-Basic-Concepts\BasicConcepts\bin\Debug\net6.0\BasicConcepts.deps.json
+G:\C-Sharp-Basic-Concepts\BasicConcepts\bin\Debug\net6.0\BasicConcepts.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\BasicConcepts\bin\Debug\net6.0\BasicConcepts.dll
+G:\C-Sharp-Basic-Concepts\BasicConcepts\bin\Debug\net6.0\BasicConcepts.pdb
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.dll
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\refint\BasicConcepts.dll
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.pdb
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\BasicConcepts.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\BasicConcepts\obj\Debug\net6.0\ref\BasicConcepts.dll
