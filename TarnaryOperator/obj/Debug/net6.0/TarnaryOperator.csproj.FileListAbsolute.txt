@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\bin\Debug\net6.0\TarnaryOperator.exe
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\bin\Debug\net6.0\TarnaryOperator.deps.json
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\bin\Debug\net6.0\TarnaryOperator.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\bin\Debug\net6.0\TarnaryOperator.dll
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\bin\Debug\net6.0\TarnaryOperator.pdb
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.dll
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\refint\TarnaryOperator.dll
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.pdb
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\TarnaryOperator.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\TarnaryOperator\obj\Debug\net6.0\ref\TarnaryOperator.dll
