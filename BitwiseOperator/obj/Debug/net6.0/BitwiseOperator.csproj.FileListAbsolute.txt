@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\bin\Debug\net6.0\BitwiseOperator.exe
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\bin\Debug\net6.0\BitwiseOperator.deps.json
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\bin\Debug\net6.0\BitwiseOperator.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\bin\Debug\net6.0\BitwiseOperator.dll
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\bin\Debug\net6.0\BitwiseOperator.pdb
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.dll
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\refint\BitwiseOperator.dll
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.pdb
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\BitwiseOperator.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\BitwiseOperator\obj\Debug\net6.0\ref\BitwiseOperator.dll
