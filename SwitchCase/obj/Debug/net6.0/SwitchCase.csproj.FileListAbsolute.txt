@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+G:\C-Sharp-Basic-Concepts\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+G:\C-Sharp-Basic-Concepts\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+G:\C-Sharp-Basic-Concepts\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
