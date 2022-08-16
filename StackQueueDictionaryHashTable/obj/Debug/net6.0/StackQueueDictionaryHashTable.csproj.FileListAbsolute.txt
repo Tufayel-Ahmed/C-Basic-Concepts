@@ -1,0 +1,15 @@
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\bin\Debug\net6.0\StackQueueDictionaryHashTable.exe
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\bin\Debug\net6.0\StackQueueDictionaryHashTable.deps.json
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\bin\Debug\net6.0\StackQueueDictionaryHashTable.runtimeconfig.json
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\bin\Debug\net6.0\StackQueueDictionaryHashTable.dll
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\bin\Debug\net6.0\StackQueueDictionaryHashTable.pdb
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.GeneratedMSBuildEditorConfig.editorconfig
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.AssemblyInfoInputs.cache
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.AssemblyInfo.cs
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.dll
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\refint\StackQueueDictionaryHashTable.dll
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.pdb
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\StackQueueDictionaryHashTable.genruntimeconfig.cache
+G:\C-Sharp-Basic-Concepts\StackQueueDictionaryHashTable\obj\Debug\net6.0\ref\StackQueueDictionaryHashTable.dll
