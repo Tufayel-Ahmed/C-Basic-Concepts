@@ -1,0 +1,11 @@
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.SuggestedBindingRedirects.cache
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+G:\C-Sharp-Basic-Concepts\HelloWorldApp\obj\Debug\HelloWorldApp.HelloAppUI.resources
